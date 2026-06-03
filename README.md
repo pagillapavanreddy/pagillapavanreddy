@@ -42,7 +42,9 @@ MSc Cyber Security (Advanced Practice) graduate from Wrexham University with int
 
 ## Contact
 
-LinkedIn: linkedin.com/in/pavan-reddy-pagilla
+## Contact
+
+🔗 [LinkedIn](https://www.linkedin.com/in/pavan-reddy-pagilla-046421200)
 
 Email: [pavanreddypagilla@gmail.com](mailto:pavanreddypagilla@gmail.com)
 
