@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Pavan Reddy Pagilla
 
-<!--
-**pagillapavanreddy/pagillapavanreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cyber Security Graduate | Threat Intelligence | Machine Learning
 
-Here are some ideas to get you started:
+MSc Cyber Security (Advanced Practice) graduate from Wrexham University with interests in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cyber Threat Intelligence
+* Security Operations (SOC)
+* Incident Response
+* Machine Learning for Cyber Security
+* Identity and Access Management (IAM)
+* Blockchain Security
+
+## Featured Projects
+
+### Analysis of Recent Ransomware Attacks Using Cyber Incident Data
+
+* Analysed 4,296 cyber incidents from the EURepoC dataset.
+* Developed Logistic Regression, Random Forest, and XGBoost models.
+* Achieved ROC-AUC of 0.959.
+* Applied SHAP explainability techniques.
+
+### Decentralised Identity and Access Management System
+
+* Built using Ethereum smart contracts.
+* Implemented DIDs and Verifiable Credentials.
+* Published as an IEEE conference paper.
+
+## Technical Skills
+
+* Python
+* Scikit-Learn
+* XGBoost
+* SHAP
+* Wireshark
+* Nmap
+* Burp Suite
+* Linux
+* Git/GitHub
+* Solidity
+* Ethereum
+
+## Contact
+
+LinkedIn: linkedin.com/in/pavan-reddy-pagilla
+
+Email: [pavanreddypagilla@gmail.com](mailto:pavanreddypagilla@gmail.com)
+
